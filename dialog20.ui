@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog20</class>
+ <widget class="QDialog" name="Dialog20">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1324</width>
+    <height>767</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>370</x>
+     <y>20</y>
+     <width>311</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+font: 700 22pt &quot;Segoe UI&quot;;
+text-decoration: underline;
+color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>Level6: Neptune</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>140</y>
+     <width>1091</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe Script</family>
+     <pointsize>25</pointsize>
+     <italic>false</italic>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 700 25pt &quot;Segoe Script&quot;;
+color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>Quelle est la couleur de Neptune et pourquoi ?</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>290</y>
+     <width>411</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Bleue turquoise, car elle est composée de méthane.</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>570</x>
+     <y>290</y>
+     <width>431</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Grise, car c'est une planète rocheuse et poussiéreuse.</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>440</y>
+     <width>411</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Beige, car elle est recouverte de sable .</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>570</x>
+     <y>440</y>
+     <width>431</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Bleue foncée, car elle est entièrement recouverte d'eau.</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
